@@ -1,0 +1,11 @@
+.card{
+    background:rgb(3, 222, 171);
+    margin:20px;
+    padding:20px;
+    border-radius:10px;
+    text-align:center;
+}
+
+.card img{
+    width:250px;
+}

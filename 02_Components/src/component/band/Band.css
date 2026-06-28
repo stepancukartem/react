@@ -1,0 +1,17 @@
+.card{
+    background:rgb(207, 9, 154);
+    margin:20px;
+    padding:20px;
+    border-radius:10px;
+    text-align:center;
+}
+
+.card img{
+    width:300px;
+    border-radius:10px;
+}
+
+ul{
+    list-style:none;
+    padding:0;
+}
