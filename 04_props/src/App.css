@@ -1,0 +1,12 @@
+body{
+    margin:0;
+    background:#eeeeee;
+    font-family:Arial;
+}
+
+.app{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
+}
