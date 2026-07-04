@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #eef2f7;
+}
+
+.container {
+    width: 900px;
+    margin: 30px auto;
+}
+
+h1 {
+    text-align: center;
+    color: #1565c0;
+}
+
+.card {
+    background: white;
+    margin: 25px 0;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,.15);
+}
+
+.author-image {
+    width: 180px;
+    height: 220px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 15px;
+    border-radius: 10px;
+}
+
+.card h2 {
+    text-align: center;
+    color: #1565c0;
+}
+
+.card p {
+    font-size: 17px;
+    line-height: 1.5;
+}
